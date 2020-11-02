@@ -11,6 +11,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 
 [<img align="left" alt="Lennoard at LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lennoard at XDA" width="22px" src="https://icons.veryicon.com/png/128/object/material_design_icons/xda-6.png" />][xda]
+[<img align="left" alt="Lennoard at Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/telegram/telegram.png" />][telegram]
 
 <br />
 
@@ -40,3 +41,4 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 [website]: https://www.mobills.com.br/
 [linkedin]: https://linkedin.com/in/lennoard
 [xda]: https://forum.xda-developers.com/member.php?u=6652564
+[telegram]: https://telegram.me/lennoard
