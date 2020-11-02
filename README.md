@@ -1,7 +1,7 @@
 ## Hi there, I'm Lennoard 👋
 I'm an app developer, particulary passionate for Android as a XDA Recognized Developer. I love to translate projects to my native language, portuguese.
 
-- 🔨 I'm currently working at [Mobills][website] as a trainee Android developer
+- 🔨 I'm currently working at [Mobills][website] as a junior Android developer
 - 🌱 I’m currently learning Flutter and Python
 - 👯 I’m looking to translate more open source projects
 - ⚡ Fun fact: I compose metal music 🎸
