@@ -1,5 +1,5 @@
   ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lennoard&countColorcountColor&countColor=%232979ff)  ![GitHub followers](https://img.shields.io/github/followers/Lennoard?label=Follow&style=social)
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30"/> Hi there, I'm Lennoard, aka L</h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30"/> Hi there, I'm Lennoard, aka L</h1>
 I'm an app developer, particulary passionate for Android as a XDA Recognized Developer. I love to translate projects to my native language, portuguese.
 
 <ul>
@@ -55,7 +55,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lennoard/SysctlGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-pr-closed/Lennoard/SysctlGUI?style=flat-square&labelColor=343b41&label"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/Lennoard/SysctlGUI"><b>DD GUI</b></a></td>
+      <td><a href="https://github.com/Lennoard/DDGUI"><b>DD GUI</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Lennoard/DDGUI?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Lennoard/DDGUI?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-closed/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/></td></td>
