@@ -15,7 +15,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 ### Reach me:
 [<img align="left" alt="Lennoard at LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lennoard at Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/telegram/telegram.png" />][telegram]
-[<img align="left" alt="Lennoard at Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discord]
+[<img align="left" alt="Lennoard at Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discord]
 [<img align="left" alt="Lennoard at XDA" width="22px" src="https://icons.veryicon.com/png/128/object/material_design_icons/xda-6.png" />][xda]
 
 <br />
@@ -73,11 +73,11 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 
 ---
 
-![Lennoard's github stats](https://github-readme-stats.vercel.app/api?username=Lennoard&show_icons=true)
+![Lennoard's github stats](https://github-readme-stats.vercel.app/api?username=Lennoard&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lennoard&layout=compact&hide=c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lennoard&layout=compact&hide=c%2B%2B,c&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/lennoard
 [xda]: https://forum.xda-developers.com/member.php?u=6652564
 [telegram]: https://telegram.me/lennoard
-[discord]: https://telegram.me/lennoard
+[discord]: https://discord.gg/3996
