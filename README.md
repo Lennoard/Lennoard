@@ -1,34 +1,75 @@
-## Hi there, I'm Lennoard 👋
+  ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lennoard&countColorcountColor&countColor=%232979ff)  ![GitHub followers](https://img.shields.io/github/followers/Lennoard?label=Follow&style=social)
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30"/> Hi there, I'm Lennoard, aka L</h2>
 I'm an app developer, particulary passionate for Android as a XDA Recognized Developer. I love to translate projects to my native language, portuguese.
 
-- 🔨 I'm currently working at [Mobills][website] as a junior Android developer
-- 🌱 I’m currently learning Flutter and Python
-- 👯 I’m looking to translate more open source projects
-- ⚡ Fun fact: I compose metal music 🎸
+<ul>
+<li> 🔨 I'm currently working at <a href="https://www.mobills.com.br/">Mobills</a> as a junior Android developer</li>
+<li> 🌱 I’m currently learning Flutter and Python</li>
+<li> 👯 I’m looking to translate more open source projects</li>
+<li> ⚡ Fun fact: I compose metal music <img src="https://emojis.slackmojis.com/emojis/images/1597609860/10080/headbanging_parrot.gif?1597609860" width="30" /></li>
+<li><img src="https://emoji.gg/assets/emoji/1156_cool.png" width="30" /> dAnK</li>
+</ul>
+
 
 
 ### Reach me:
-
-[<img align="left" alt="Lennoard at LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Lennoard at XDA" width="22px" src="https://icons.veryicon.com/png/128/object/material_design_icons/xda-6.png" />][xda]
+[<img align="left" alt="Lennoard at LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lennoard at Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="Lennoard at Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discord]
+[<img align="left" alt="Lennoard at XDA" width="22px" src="https://icons.veryicon.com/png/128/object/material_design_icons/xda-6.png" />][xda]
 
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="26px" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
-<img align="left" alt="Java" width="26px" src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<p>
+	 <img alt="android" src="https://img.shields.io/badge/-Android-F05032?style=flat&color=e8f5e9&logo=android&logoColor=43a047" />
+	<img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-F05032?style=flat&&color=ede7f6&logo=kotlin&logoColor=ff9100" />
+	<img alt="java" src="https://img.shields.io/badge/-Java-F05032?style=flat&&color=1e88e5&logo=java&logoColor=white" />
+	<img alt="firebase" src="https://img.shields.io/badge/-Firebase-F05032?style=flat&&color=fff8e1&logo=firebase&logoColor=#ffffff" />
+	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&color=ffebee&logo=html5&logoColor=f44336" />
+	<img alt="css" src="https://img.shields.io/badge/-CSS-E34F26?style=flat&color=2196f3&logo=css3&logoColor=white" />
+	<img alt="js" src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat&color=fff59d&logo=javascript&logoColor=black" />
+	<img alt="github" src="https://img.shields.io/badge/-Linux-F05032?style=flat&&color=white&logo=linux&logoColor=black" />
+	  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&&color=f44336&logo=git&logoColor=white" />
+	  <img alt="github" src="https://img.shields.io/badge/-GitHub-F05032?style=flat&&color=white&logo=github&logoColor=black" />
+  
+</p>
 
-<br />
+### Open source projects
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🔨 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🍴 Forks</b></td>
+      <td><b>🚩 Issues</b></td>
+      <td><b>📝 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Lennoard/SysctlGUI"><b>SysctlGUI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lennoard/SysctlGUI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lennoard/SysctlGUI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lennoard/SysctlGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-closed/Lennoard/SysctlGUI?style=flat-square&labelColor=343b41&label"/></td></td>
+     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lennoard/SysctlGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-pr-closed/Lennoard/SysctlGUI?style=flat-square&labelColor=343b41&label"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Lennoard/SysctlGUI"><b>DD GUI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lennoard/DDGUI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lennoard/DDGUI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-closed/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/></td></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-pr-closed/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lennoard/HEBF"><b>HEBF</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lennoard/HEBF?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lennoard/HEBF?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lennoard/HEBF?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-closed/Lennoard/HEBF?style=flat-square&labelColor=343b41&label"/></td></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lennoard/HEBF?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-pr-closed/Lennoard/HEBF?style=flat-square&labelColor=343b41&label"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -36,9 +77,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lennoard&layout=compact&hide=c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub followers](https://img.shields.io/github/followers/Lennoard?label=Follow&style=social)
-
-[website]: https://www.mobills.com.br/
 [linkedin]: https://linkedin.com/in/lennoard
 [xda]: https://forum.xda-developers.com/member.php?u=6652564
 [telegram]: https://telegram.me/lennoard
+[discord]: https://telegram.me/lennoard
