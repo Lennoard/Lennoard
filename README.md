@@ -1,5 +1,5 @@
   ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lennoard&countColorcountColor&countColor=%232979ff)  ![GitHub followers](https://img.shields.io/github/followers/Lennoard?label=Follow&style=social)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30"/> Hi there, I'm Lennoard, aka L</h1>
+<h1><img src="https://emoji.gg/assets/emoji/1156_cool.png" width="30" /> Hi there, I'm Lennoard, aka L</h1>
 I'm an app developer, particulary passionate for Android as a XDA Recognized Developer. I love to translate projects to my native language, portuguese.
 
 <ul>
@@ -7,7 +7,6 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 <li> 🌱 I’m currently learning Flutter and Python</li>
 <li> 👯 I’m looking to translate more open source projects</li>
 <li> ⚡ Fun fact: I compose metal music <img src="https://emojis.slackmojis.com/emojis/images/1597609860/10080/headbanging_parrot.gif?1597609860" width="30" /></li>
-<li><img src="https://emoji.gg/assets/emoji/1156_cool.png" width="30" /> dAnK</li>
 </ul>
 
 
