@@ -11,7 +11,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 
 
 
-### Reach me:
+### Contact me:
 [<img align="left" alt="Lennoard at LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lennoard at Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/telegram/telegram.png" />][telegram]
 [<img align="left" alt="Lennoard at Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discord]
