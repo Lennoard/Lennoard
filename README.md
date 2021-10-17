@@ -3,7 +3,7 @@
 I'm an app developer, particulary passionate for Android as a XDA Recognized Developer. I love to translate projects to my native language, portuguese.
 
 <ul>
-<li> 🔨 I'm currently working at <a href="https://www.mobills.com.br/">Mobills</a> as a junior Android developer</li>
+<li> 🔨 I'm currently working at <a href="https://www.mobills.com.br/">Mobills</a> as an Android Swoftware Developer</li>
 <li> 🌱 I’m currently learning Flutter and Python</li>
 <li> 👯 I’m looking to translate more open source projects</li>
 <li> ⚡ Fun fact: I compose metal music <img src="https://emojis.slackmojis.com/emojis/images/1597609860/10080/headbanging_parrot.gif?1597609860" width="30" /></li>
@@ -74,7 +74,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 
 ![Lennoard's github stats](https://github-readme-stats.vercel.app/api?username=Lennoard&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lennoard&layout=compact&hide=c%2B%2B&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lennoard&langs_count=8&layout=compact&hide=css&exclude_repo=IdeapadHackintosh&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/lennoard
 [xda]: https://forum.xda-developers.com/member.php?u=6652564
