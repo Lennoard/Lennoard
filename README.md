@@ -4,7 +4,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 
 <ul>
 <li> 🔨 I'm currently working at <a href="https://www.mobills.com.br/">Mobills</a> as an Android Software Developer</li>
-<li> 🌱 I’m currently learning Flutter and Python</li>
+<li> 🌱 I’m currently learning Flutter and React</li>
 <li> 👯 I’m looking to translate more open source projects</li>
 <li> ⚡ Fun fact: I compose metal music <img src="https://emojis.slackmojis.com/emojis/images/1597609860/10080/headbanging_parrot.gif?1597609860" width="30" /></li>
 </ul>
