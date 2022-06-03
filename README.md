@@ -73,7 +73,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 
 ---
 
-![Lennoard's github stats](https://github-readme-stats.vercel.app/api?username=Lennoard&show_icons=true&theme=synthwave)
+![Lennoard's github stats](https://github-readme-stats.vercel.app/api?username=Lennoard&show_icons=true&theme=synthwave&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lennoard&langs_count=8&layout=compact&hide=css&exclude_repo=IdeapadHackintosh&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
