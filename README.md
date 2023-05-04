@@ -29,6 +29,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&color=ffebee&logo=html5&logoColor=f44336" />
 	<img alt="css" src="https://img.shields.io/badge/-CSS-E34F26?style=flat&color=2196f3&logo=css3&logoColor=white" />
 	<img alt="js" src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat&color=fff59d&logo=javascript&logoColor=black" />
+	<img alt="ts" src="https://img.shields.io/badge/-TypeScript-E34F26?style=flat&color=4198ff&logo=typescript&logoColor=black" />
 	<img alt="github" src="https://img.shields.io/badge/-Linux-F05032?style=flat&&color=white&logo=linux&logoColor=black" />
 	  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&&color=f44336&logo=git&logoColor=white" />
 	  <img alt="github" src="https://img.shields.io/badge/-GitHub-F05032?style=flat&&color=white&logo=github&logoColor=black" />
