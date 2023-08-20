@@ -13,10 +13,10 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 
 
 ### Contact me:
-[<img align="left" alt="Lennoard at LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Lennoard at LinkedIn" width="22px" src="https://icons.veryicon.com/png/o/internet--web/common-social-site-icons-for-the-web/linkedin-90.png" />][linkedin]
 [<img align="left" alt="Lennoard at Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/telegram/telegram.png" />][telegram]
-[<img align="left" alt="Lennoard at Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discord]
-[<img align="left" alt="Lennoard at XDA" width="22px" src="https://icons.veryicon.com/png/128/object/material_design_icons/xda-6.png" />][xda]
+[<img align="left" alt="Lennoard at Discord" width="22px" src="https://icons.veryicon.com/png/o/application/app-icon-7/discord-4.png" />][discord]
+[<img align="left" alt="Lennoard at XDA" width="22px" src="https://icons.veryicon.com/png/System/Circle/xda.png" />][xda]
 
 <br />
 
