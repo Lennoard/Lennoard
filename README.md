@@ -24,7 +24,8 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 <p>
 	 <img alt="android" src="https://img.shields.io/badge/-Android-F05032?style=flat&color=e8f5e9&logo=android&logoColor=43a047" />
 	<img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-F05032?style=flat&&color=ede7f6&logo=kotlin&logoColor=ff9100" />
-	<img alt="java" src="https://img.shields.io/badge/-Java-F05032?style=flat&&color=1e88e5&logo=java&logoColor=white" />
+	<img alt="android" src="https://img.shields.io/badge/-Jetpack%20Compose-F05032?style=flat&color=e8f5e9&logo=jetpackcompose&logoColor=4285F4" />
+	 <img alt="java" src="https://img.shields.io/badge/-Java-F05032?style=flat&&color=white&logo=java&logoColor=black" />
 	<img alt="firebase" src="https://img.shields.io/badge/-Firebase-F05032?style=flat&&color=fff8e1&logo=firebase&logoColor=#ffffff" />
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&color=ffebee&logo=html5&logoColor=f44336" />
 	<img alt="css" src="https://img.shields.io/badge/-CSS-E34F26?style=flat&color=2196f3&logo=css3&logoColor=white" />
