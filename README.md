@@ -73,6 +73,9 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
   </tbody>
 </table>
 
+### You are one of these
+[![Hits](https://u8views.com/api/v1/github/profiles/15087908/views/day-week-month-total-count.svg)](https://u8views.com/github/Lennoard)
+
 ---
 
 ![Lennoard's github stats](https://github-readme-stats.vercel.app/api?username=Lennoard&show_icons=true&theme=synthwave&count_private=true)
