@@ -63,12 +63,26 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-closed/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/></td></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-pr-closed/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/></td>
     </tr>
+	<tr>
+      <td><a href="https://github.com/Lennoard/Snappier"><b>Snappier</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lennoard/Snappier?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lennoard/Snappier?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lennoard/Snappier?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-closed/Lennoard/Snappier?style=flat-square&labelColor=343b41&label"/></td></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-pr-closed/Lennoard/Snappier?style=flat-square&labelColor=343b41&label"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/Lennoard/HEBF"><b>HEBF</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Lennoard/HEBF?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Lennoard/HEBF?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Lennoard/HEBF?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-closed/Lennoard/HEBF?style=flat-square&labelColor=343b41&label"/></td></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lennoard/HEBF?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-pr-closed/Lennoard/HEBF?style=flat-square&labelColor=343b41&label"/></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/Lennoard/Shelfe"><b>Shelfe</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lennoard/Shelfe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lennoard/Shelfe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lennoard/Shelfe?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-closed/Lennoard/Shelfe?style=flat-square&labelColor=343b41&label"/></td></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lennoard/DDGUI?style=flat-square&labelColor=343b41&label"/><img src="https://img.shields.io/github/issues-pr-closed/Lennoard/Shelfe?style=flat-square&labelColor=343b41&label"/></td>
     </tr>
   </tbody>
 </table>
