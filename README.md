@@ -89,6 +89,7 @@ I'm an app developer, particulary passionate for Android as a XDA Recognized Dev
 
 ### You are one of these
 [![Hits](https://u8views.com/api/v1/github/profiles/15087908/views/day-week-month-total-count.svg)](https://u8views.com/github/Lennoard)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lennoard&countColorcountColor&countColor=%232979ff)
 
 ---
 
