@@ -3,11 +3,11 @@
 I'm an app developer, particulary passionate for Android as a XDA Recognized Developer. I love to translate projects to my native language, portuguese.
 
 <ul>
-<li> 🔨 I'm currently working at <a href="https://www.mobills.com.br/">Mobills</a> as an Android Software Engineer</li>
-<li> 🌱 I'm currently learning Kotlin Multiplatform (KMP)</li>
+<li> 🔨 I'm currently working at <a href="https://www.toroinvestimentos.com.br/">Toro</a> as an Android Software Engineer</li>
+<li> 🌱 I'm currently learning Kotlin Multiplatform (KMP) and Compose Multiplatform</li>
 <li> 📲 I'm interested in other technologies such as React and Flutter</li>
 <li> 👯 I'm looking to translate more open source projects</li>
-<li> ⚡ Fun fact: I compose metal music <img src="https://emojis.slackmojis.com/emojis/images/1597609860/10080/headbanging_parrot.gif?1597609860" width="30" /></li>
+<li> ⚡ Fun fact: I write metal songs <img src="https://emojis.slackmojis.com/emojis/images/1597609860/10080/headbanging_parrot.gif?1597609860" width="30" /></li>
 </ul>
 
 
