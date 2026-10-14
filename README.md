@@ -3,7 +3,6 @@
 I'm an app developer, particulary passionate for Android as a XDA Recognized Developer. I love to translate projects to my native language, portuguese.
 
 <ul>
-<li> 🔨 I'm currently working at <a href="https://www.toroinvestimentos.com.br/">Toro</a> as an Android Software Engineer</li>
 <li> 🌱 I'm currently learning Kotlin Multiplatform (KMP) and Compose Multiplatform</li>
 <li> 📲 I'm interested in other technologies such as React and Flutter</li>
 <li> 👯 I'm looking to translate more open source projects</li>
